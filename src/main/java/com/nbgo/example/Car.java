@@ -1,4 +1,4 @@
-package com.nbgo.t;
+package com.nbgo.example;
 
 public class Car {
 	private int id;

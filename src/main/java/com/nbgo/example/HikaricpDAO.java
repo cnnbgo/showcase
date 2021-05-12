@@ -1,4 +1,4 @@
-package com.nbgo.t;
+package com.nbgo.example;
 
 import java.io.IOException;
 import java.math.BigDecimal;
