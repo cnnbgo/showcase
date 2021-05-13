@@ -8,3 +8,8 @@
 .tern-project
 .DS_STORE
 .vscode
+/.gitignore
+/.metadata/
+/README.md
+/pom.xml
+/src/
